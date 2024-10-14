@@ -1,1 +1,0 @@
-проектная работа "Посмотри в окно": https://github.com/Yanyella/posmotri_v_okno
