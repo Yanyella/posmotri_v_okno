@@ -272,8 +272,8 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 }
 
 .content__card-link:hover {
+  color: #fff;
   text-decoration: underline;
-  text-underline-offset: 4px;
 }
 
 .content__card-link:active {
@@ -302,7 +302,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 30px;
